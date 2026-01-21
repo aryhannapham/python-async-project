@@ -1,0 +1,10 @@
+[project]
+name = "icon-tutorial"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "flet[all]>=0.70.0.dev0",
+    "uvicorn[standard]>=0.40.0",
+]
