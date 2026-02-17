@@ -1,0 +1,9 @@
+__pycache__
+*.pyc
+*.pyo
+*.pyo
+dist
+build
+.venv
+.git
+.gitignore
